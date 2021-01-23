@@ -1,0 +1,9 @@
+build/*
+public/*
+.next/*
+src/generated/*
+next-env.d.ts
+next.config.js
+postcss.config.js
+tailwind.config.js
+server.js
